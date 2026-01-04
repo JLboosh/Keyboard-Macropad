@@ -2,7 +2,7 @@
 
 Here's my submission for my macropad!
 
-## PCB and Schematic
+## PCB, Schematic, and Case
 Here's a picture of my schematic!
 
 Schematic            |  PCB                        | CASE
@@ -11,8 +11,8 @@ Schematic            |  PCB                        | CASE
 
 [ x ] I ran DRC in KiCad and have made sure there are 0 errors!
 
-## CAD Model with PCB:
-![alt text](CAD_PCB.png)
+## Assembled render:
+![alt text](new_render_1.png)    ![alt text](new_render_2.png)
 
 This was made in fusion 360
 
